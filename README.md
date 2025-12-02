@@ -1,16 +1,18 @@
-## Hi there 👋
+Lucas Dominici — Data Scientist
 
-<!--
-**lukdo/lukdo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 Berlin, Germany | 🎓 Le Wagon Data Science | 🧠 Machine Learning · Economics · MLOps
 
-Here are some ideas to get you started:
+I am a Data Scientist with a background in engineering, product development and analytics.
+After several years working in tech, finance and public sector organizations, I completed the Le Wagon Data Science bootcamp to deepen my skills in Python, Machine Learning, Deep Learning and Cloud-based MLOps.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚧 Currently updating this GitHub
+
+Over the coming weeks, I am publishing several projects, including:
+
+🔹 Le Wagon Final Project
+
+A complete ML pipeline with model training, evaluation, and a web app (Streamlit/GCP/MLflow).
+
+🔹 AI Master Thesis (Summary)
+
+I no longer have the original code, but I am publishing the written thesis (PDF)
