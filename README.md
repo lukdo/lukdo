@@ -1,6 +1,6 @@
 Lucas Dominici — Data Scientist
 
-📍 Berlin, Germany | 🎓 Le Wagon Data Science | 🧠 Machine Learning · Economics · MLOps
+📍 Berlin, Germany | 🎓 Le Wagon Data Science
 
 I am a Data Scientist with a background in engineering, product development and analytics.
 After several years working in tech, finance and public sector organizations, I completed the Le Wagon Data Science bootcamp to deepen my skills in Python, Machine Learning, Deep Learning and Cloud-based MLOps.
