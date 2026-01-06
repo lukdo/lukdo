@@ -9,7 +9,8 @@ My Projects:
 
 🔹 Le Wagon Final Project
 
-A complete ML pipeline with model training, evaluation, and a web app (Streamlit/GCP/MLflow).
+**Django · FastAPI · Gemini · Docker · Cloud Run**
+End-to-end prototype of a loan repayment prediction web application. 2 min demo included in the github project.
 https://github.com/lukdo/loan-predictor-voice-app
 
 🔹 AI Master Thesis (Summary)
