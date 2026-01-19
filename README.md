@@ -15,4 +15,5 @@ https://github.com/lukdo/loan-predictor-voice-app
 
 🔹 AI Master Thesis (Summary)
 
-I no longer have the original code, but I will be publishing the written thesis (PDF)
+Master’s thesis on identifying and clustering Twitter communities around shared topics using graph-based methods and unsupervised learning.
+Original code unavailable; thesis PDF available upon request
